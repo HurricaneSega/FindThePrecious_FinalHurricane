@@ -1,23 +1,23 @@
 
 	@font-face {
 		font-family: 'elvish_shit';
-		src: url(../fonts/anicb___.ttf);
+		src: url(fonts/anicb___.ttf);
 	}
 
 	@font-face {
 		font-family: 'puces_elvish';
-		src: url(../fonts/partybusiness.ttf) format('truetype');
+		src: url(fonts/partybusiness.ttf) format('truetype');
 	}
 
 	.puces {
 		font-family: 'puces_elvish', serif;
-		src: url(../fonts/partybusiness.ttf)
+		src: url(fonts/partybusiness.ttf)
 		color: darkorange;
 	}
 
 	div {
 		font-family: 'elvish_shit', serif;
-		src: url(../fonts/anicb___.ttf);
+		src: url(fonts/anicb___.ttf);
 	}
 
 	.navbar {
@@ -135,7 +135,7 @@
 	}
 
 	.captured {
-		background-image: url(../img/_bg_dark.png);
+		background-image: url(img/_bg_dark.png);
 		color: white;
 	}
 
@@ -165,12 +165,12 @@
 	}
 
 	.Besthunter {
-		background-image: url(../img/_bg_light.png);
+		background-image: url(img/_bg_light.png);
 		margin-bottom: 100px;
 	}
 
 	.hate {
-		background-image: url(../img/_bg_dark.png);
+		background-image: url(img/_bg_dark.png);
 		max-width: 75px;
 		text-align: center;
 		color: rgb(226, 170, 23);
@@ -191,7 +191,7 @@
 
 	.About_Ring {
 		padding-bottom: 60px;
-		background-image: url(../img/_bg_dark.png);
+		background-image: url(img/_bg_dark.png);
 	}
 
 	.title_ring {
@@ -230,7 +230,7 @@
 	}
 
 	.Join_Mordor {
-		background-image: url(../img/_bg_light.png);
+		background-image: url(img/_bg_light.png);
 		padding-bottom: 60px;
 	}
 
@@ -248,11 +248,11 @@
 	}
 
 	.btn-info {
-		background-image: url(../img/_bg_dark.png);
+		background-image: url(img/_bg_dark.png);
 	}
 
 	.contact {
-		background-image: url(../img/_bg_dark.png);
+		background-image: url(img/_bg_dark.png);
 		padding-bottom: 60px;
 	}
 
