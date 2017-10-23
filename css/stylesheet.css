@@ -1,274 +1,274 @@
 
-	@font-face {
-		font-family: 'elvish_shit';
-		src: url(fonts/anicb___.ttf);
-	}
+@font-face {
+	font-family: 'elvish_shit';
+	src: url(../fonts/anicb___.ttf);
+}
 
-	@font-face {
-		font-family: 'puces_elvish';
-		src: url(fonts/partybusiness.ttf) format('truetype');
-	}
+@font-face {
+	font-family: 'puces_elvish';
+	src: url(../fonts/partybusiness.ttf) format('truetype');
+}
 
-	.puces {
-		font-family: 'puces_elvish', serif;
-		src: url(fonts/partybusiness.ttf)
-		color: darkorange;
-	}
+.puces {
+	font-family: 'puces_elvish', serif;
+	src: url(../fonts/partybusiness.ttf)
+	color: darkorange;
+}
 
-	div {
-		font-family: 'elvish_shit', serif;
-		src: url(fonts/anicb___.ttf);
-	}
+div {
+	font-family: 'elvish_shit', serif;
+	src: url(../fonts/anicb___.ttf);
+}
 
-	.navbar {
-		color: white;
-		background-color: darkorange;
-	}
-
-
-		.carousel-caption {
-		top: 30%;
-		bottom: auto;
-	}
-
-	.carousel {
-
-		margin-top: -22px;
-	}
+.navbar {
+	color: white;
+	background-color: darkorange;
+}
 
 
-	.my_Pills {
-		background-image: url(../img/_bg_light.png);
-		padding-bottom: 100px;
-	}
+.carousel-caption {
+	top: 30%;
+	bottom: auto;
+}
 
-	.order {
-		padding-top: 20px;
-		padding-bottom: 20px;
-	}
+.carousel {
 
-	.target_wanted {
+	margin-top: -22px;
+}
 
-		padding-top: 20px;
-		padding-bottom: 60px;
-	}
 
-	.thumbnail {
-		position: relative;
-		display: inline-block;
-		max-width: 326px;
-	}
+.my_Pills {
+	background-image: url(../img/_bg_light.png);
+	padding-bottom: 100px;
+}
 
-	.thumbnail img {
-		opacity: 0.7;
-	}
+.order {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
 
-	.thumbnail:hover img {
-		opacity: 1;
-	}
+.target_wanted {
 
-	.thumbnail:hover > .reward {
-		display: none;
-	}
+	padding-top: 20px;
+	padding-bottom: 60px;
+}
 
-	.thumbnail:hover > .rewardgimli {
-		display: none;
-	}
+.thumbnail {
+	position: relative;
+	display: inline-block;
+	max-width: 326px;
+}
 
-	.thumbnail:hover > .comment {
-		display: none;
-	}
+.thumbnail img {
+	opacity: 0.7;
+}
 
-	.reward {
-		display: inherit;
-		position: absolute;
-		margin-top: -95%;
-		margin-left: 18%;
-		background-color: white;
-		color: rgb(19, 19, 19);
-		font-size: 17px;
-		text-align: center;
-		width: 60%;
-		border-radius: 10px 10px 10px 10px;
-		box-shadow: 0px 0px 30px white;
+.thumbnail:hover img {
+	opacity: 1;
+}
 
-	}
+.thumbnail:hover > .reward {
+	display: none;
+}
 
-	.rewardgimli {
-		display: inherit;
-		position: absolute;
-		margin-top: -95%;
-		margin-left: 20%;
-		color: rgb(19, 19, 19);
-		font-size: 17px;
-		text-align: center;
-		width: 60%;
+.thumbnail:hover > .rewardgimli {
+	display: none;
+}
 
-	}
+.thumbnail:hover > .comment {
+	display: none;
+}
 
-	.target_name {
-		position: absolute;
-		margin-top: -60%;
-		margin-left: 22%;
-		color: white;
-		font-size: 25px;
-	}
+.reward {
+	display: inherit;
+	position: absolute;
+	margin-top: -95%;
+	margin-left: 18%;
+	background-color: white;
+	color: rgb(19, 19, 19);
+	font-size: 17px;
+	text-align: center;
+	width: 60%;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 30px white;
 
-	.target_name_gimli {
-		position: absolute;
-		margin-top: -60%;
-		margin-left: 33%;
-		color: white;
-		font-size: 25px;
-	}
+}
 
-	.comment {
-		background-color: rgb(19, 19, 19);
-		color: white;
-		font-size: 17px;
-		text-align: center;
-		width: 100%;
-	}
+.rewardgimli {
+	display: inherit;
+	position: absolute;
+	margin-top: -95%;
+	margin-left: 20%;
+	color: rgb(19, 19, 19);
+	font-size: 17px;
+	text-align: center;
+	width: 60%;
 
-	strong {
-		color: darkorange;
-	}
+}
 
-	.captured {
-		background-image: url(img/_bg_dark.png);
-		color: white;
-	}
+.target_name {
+	position: absolute;
+	margin-top: -60%;
+	margin-left: 22%;
+	color: white;
+	font-size: 25px;
+}
 
-	h2 {
-		text-align: center;
-		color: white;
-	}
+.target_name_gimli {
+	position: absolute;
+	margin-top: -60%;
+	margin-left: 33%;
+	color: white;
+	font-size: 25px;
+}
 
-	.btn {
-		margin-top: 50px;
-		margin-bottom: 50px;
-		width: 95%;
-		color: #ff8c00;
-	}
+.comment {
+	background-color: rgb(19, 19, 19);
+	color: white;
+	font-size: 17px;
+	text-align: center;
+	width: 100%;
+}
 
-	.coin_sauron {
-		margin-top: 60px;
-	}
+strong {
+	color: darkorange;
+}
 
-	.lorem_ipsum {
-		margin-top: 30px;
-	}
+.captured {
+	background-image: url(../img/_bg_dark.png);
+	color: white;
+}
 
-	.title_best {
-		font-size: 30px;
-		margin-bottom: 20px;
-	}
+h2 {
+	text-align: center;
+	color: white;
+}
 
-	.Besthunter {
-		background-image: url(img/_bg_light.png);
-		margin-bottom: 100px;
-	}
+.btn {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 95%;
+	color: #ff8c00;
+}
 
-	.hate {
-		background-image: url(img/_bg_dark.png);
-		max-width: 75px;
-		text-align: center;
-		color: rgb(226, 170, 23);
-	}
+.coin_sauron {
+	margin-top: 60px;
+}
 
-	h3 {
-		font-size: 30px;
-		color: #ff8c00;
-	}
+.lorem_ipsum {
+	margin-top: 30px;
+}
 
-	a {
-		color: black;
-	}
+.title_best {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
 
-	a:hover {
-		color: black;
-	}
+.Besthunter {
+	background-image: url(../img/_bg_light.png);
+	margin-bottom: 100px;
+}
 
-	.About_Ring {
-		padding-bottom: 60px;
-		background-image: url(img/_bg_dark.png);
-	}
+.hate {
+	background-image: url(../img/_bg_dark.png);
+	max-width: 75px;
+	text-align: center;
+	color: rgb(226, 170, 23);
+}
 
-	.title_ring {
-		color: white;
-		font-size: 30px;
-		margin-bottom: 30px;
-	}
+h3 {
+	font-size: 30px;
+	color: #ff8c00;
+}
 
-	.ring_capa {
-		background-color: #ff8c00;
-	}
+a {
+	color: black;
+}
 
-	thead {
-		font-size: 20px;
-	}
+a:hover {
+	color: black;
+}
 
-	.quotes {
-		color: white;
-	}
+.About_Ring {
+	padding-bottom: 60px;
+	background-image: url(../img/_bg_dark.png);
+}
 
-	tr {
-		margin-bottom: 20px;
-		margin-top: 20px;
-	}
+.title_ring {
+	color: white;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
 
-	.panel-info > .panel-heading {
-		background-color: #ff8c00;
-	}
+.ring_capa {
+	background-color: #ff8c00;
+}
 
-	.panel-title {
-		color: white;
-	}
+thead {
+	font-size: 20px;
+}
 
-	.precious_text {
-		font-size: 15px;
-	}
+.quotes {
+	color: white;
+}
 
-	.Join_Mordor {
-		background-image: url(img/_bg_light.png);
-		padding-bottom: 60px;
-	}
+tr {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
 
-	.title_Mordor {
-		font-size: 30px;
-		margin-bottom: 20px;
-		margin-top: 20PX;
-	}
+.panel-info > .panel-heading {
+	background-color: #ff8c00;
+}
 
-	.btninfo {
-		font-size: 30px;
-		margin-top: 45px;
-		text-align: center;
-		color: #ff8c00;
-	}
+.panel-title {
+	color: white;
+}
 
-	.btn-info {
-		background-image: url(img/_bg_dark.png);
-	}
+.precious_text {
+	font-size: 15px;
+}
 
-	.contact {
-		background-image: url(img/_bg_dark.png);
-		padding-bottom: 60px;
-	}
+.Join_Mordor {
+	background-image: url(../img/_bg_light.png);
+	padding-bottom: 60px;
+}
 
-	.title_contact {
-		font-size: 30px;
-		color: white;
-		margin-bottom: 40px;
+.title_Mordor {
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-top: 20PX;
+}
 
-	}
+.btninfo {
+	font-size: 30px;
+	margin-top: 45px;
+	text-align: center;
+	color: #ff8c00;
+}
 
-	.Footer {
-		background-color: #ff8c00;
-		padding-top: 60px;
-		padding-bottom: 60px;
-	}
+.btn-info {
+	background-image: url(../img/_bg_dark.png);
+}
 
-	.list-group-item {
-		background-color: #ff8c00;
-	}
+.contact {
+	background-image: url(../img/_bg_dark.png);
+	padding-bottom: 60px;
+}
+
+.title_contact {
+	font-size: 30px;
+	color: white;
+	margin-bottom: 40px;
+
+}
+
+.Footer {
+	background-color: #ff8c00;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.list-group-item {
+	background-color: #ff8c00;
+}
