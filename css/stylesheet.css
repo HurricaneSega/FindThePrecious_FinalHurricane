@@ -38,7 +38,7 @@ div {
 
 
 .my_Pills {
-	background-image: url(../img/_bg_light.png);
+	background-image: url(../img/bg-light.png);
 	padding-bottom: 100px;
 }
 
@@ -135,7 +135,7 @@ strong {
 }
 
 .captured {
-	background-image: url(../img/_bg_dark.png);
+	background-image: url(../img/bg-dark.png);
 	color: white;
 }
 
@@ -165,12 +165,12 @@ h2 {
 }
 
 .Besthunter {
-	background-image: url(../img/_bg_light.png);
+	background-image: url(../img/bg-light.png);
 	margin-bottom: 100px;
 }
 
 .hate {
-	background-image: url(../img/_bg_dark.png);
+	background-image: url(../img/bg-dark.png);
 	max-width: 75px;
 	text-align: center;
 	color: rgb(226, 170, 23);
@@ -191,7 +191,7 @@ a:hover {
 
 .About_Ring {
 	padding-bottom: 60px;
-	background-image: url(../img/_bg_dark.png);
+	background-image: url(../img/bg-dark.png);
 }
 
 .title_ring {
@@ -230,7 +230,7 @@ tr {
 }
 
 .Join_Mordor {
-	background-image: url(../img/_bg_light.png);
+	background-image: url(../img/bg-light.png);
 	padding-bottom: 60px;
 }
 
@@ -248,11 +248,11 @@ tr {
 }
 
 .btn-info {
-	background-image: url(../img/_bg_dark.png);
+	background-image: url(../img/bg-dark.png);
 }
 
 .contact {
-	background-image: url(../img/_bg_dark.png);
+	background-image: url(../img/bg-dark.png);
 	padding-bottom: 60px;
 }
 
